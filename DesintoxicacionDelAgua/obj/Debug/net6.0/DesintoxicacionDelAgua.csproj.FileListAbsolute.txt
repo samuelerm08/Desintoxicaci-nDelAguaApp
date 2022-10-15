@@ -1,0 +1,30 @@
+C:\Users\samue\OneDrive\Escritorio\PRO\WEB PROGRAMMING\Herramientas de Programacion\Herramientas de Programación\DesintoxicacionDelAgua\bin\Debug\net6.0\DesintoxicacionDelAgua.exe
+C:\Users\samue\OneDrive\Escritorio\PRO\WEB PROGRAMMING\Herramientas de Programacion\Herramientas de Programación\DesintoxicacionDelAgua\bin\Debug\net6.0\DesintoxicacionDelAgua.deps.json
+C:\Users\samue\OneDrive\Escritorio\PRO\WEB PROGRAMMING\Herramientas de Programacion\Herramientas de Programación\DesintoxicacionDelAgua\bin\Debug\net6.0\DesintoxicacionDelAgua.runtimeconfig.json
+C:\Users\samue\OneDrive\Escritorio\PRO\WEB PROGRAMMING\Herramientas de Programacion\Herramientas de Programación\DesintoxicacionDelAgua\bin\Debug\net6.0\DesintoxicacionDelAgua.dll
+C:\Users\samue\OneDrive\Escritorio\PRO\WEB PROGRAMMING\Herramientas de Programacion\Herramientas de Programación\DesintoxicacionDelAgua\bin\Debug\net6.0\DesintoxicacionDelAgua.pdb
+C:\Users\samue\OneDrive\Escritorio\PRO\WEB PROGRAMMING\Herramientas de Programacion\Herramientas de Programación\DesintoxicacionDelAgua\obj\Debug\net6.0\DesintoxicacionDelAgua.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Escritorio\PRO\WEB PROGRAMMING\Herramientas de Programacion\Herramientas de Programación\DesintoxicacionDelAgua\obj\Debug\net6.0\DesintoxicacionDelAgua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\OneDrive\Escritorio\PRO\WEB PROGRAMMING\Herramientas de Programacion\Herramientas de Programación\DesintoxicacionDelAgua\obj\Debug\net6.0\DesintoxicacionDelAgua.AssemblyInfoInputs.cache
+C:\Users\samue\OneDrive\Escritorio\PRO\WEB PROGRAMMING\Herramientas de Programacion\Herramientas de Programación\DesintoxicacionDelAgua\obj\Debug\net6.0\DesintoxicacionDelAgua.AssemblyInfo.cs
+C:\Users\samue\OneDrive\Escritorio\PRO\WEB PROGRAMMING\Herramientas de Programacion\Herramientas de Programación\DesintoxicacionDelAgua\obj\Debug\net6.0\DesintoxicacionDelAgua.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Escritorio\PRO\WEB PROGRAMMING\Herramientas de Programacion\Herramientas de Programación\DesintoxicacionDelAgua\obj\Debug\net6.0\DesintoxicacionDelAgua.dll
+C:\Users\samue\OneDrive\Escritorio\PRO\WEB PROGRAMMING\Herramientas de Programacion\Herramientas de Programación\DesintoxicacionDelAgua\obj\Debug\net6.0\refint\DesintoxicacionDelAgua.dll
+C:\Users\samue\OneDrive\Escritorio\PRO\WEB PROGRAMMING\Herramientas de Programacion\Herramientas de Programación\DesintoxicacionDelAgua\obj\Debug\net6.0\DesintoxicacionDelAgua.pdb
+C:\Users\samue\OneDrive\Escritorio\PRO\WEB PROGRAMMING\Herramientas de Programacion\Herramientas de Programación\DesintoxicacionDelAgua\obj\Debug\net6.0\DesintoxicacionDelAgua.genruntimeconfig.cache
+C:\Users\samue\OneDrive\Escritorio\PRO\WEB PROGRAMMING\Herramientas de Programacion\Herramientas de Programación\DesintoxicacionDelAgua\obj\Debug\net6.0\ref\DesintoxicacionDelAgua.dll
+C:\Users\samue\OneDrive\Escritorio\PRO\POO\PROYECTOS\DesintoxicacionDelAgua\bin\Debug\net6.0\DesintoxicacionDelAgua.exe
+C:\Users\samue\OneDrive\Escritorio\PRO\POO\PROYECTOS\DesintoxicacionDelAgua\bin\Debug\net6.0\DesintoxicacionDelAgua.deps.json
+C:\Users\samue\OneDrive\Escritorio\PRO\POO\PROYECTOS\DesintoxicacionDelAgua\bin\Debug\net6.0\DesintoxicacionDelAgua.runtimeconfig.json
+C:\Users\samue\OneDrive\Escritorio\PRO\POO\PROYECTOS\DesintoxicacionDelAgua\bin\Debug\net6.0\DesintoxicacionDelAgua.dll
+C:\Users\samue\OneDrive\Escritorio\PRO\POO\PROYECTOS\DesintoxicacionDelAgua\bin\Debug\net6.0\DesintoxicacionDelAgua.pdb
+C:\Users\samue\OneDrive\Escritorio\PRO\POO\PROYECTOS\DesintoxicacionDelAgua\obj\Debug\net6.0\DesintoxicacionDelAgua.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Escritorio\PRO\POO\PROYECTOS\DesintoxicacionDelAgua\obj\Debug\net6.0\DesintoxicacionDelAgua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\OneDrive\Escritorio\PRO\POO\PROYECTOS\DesintoxicacionDelAgua\obj\Debug\net6.0\DesintoxicacionDelAgua.AssemblyInfoInputs.cache
+C:\Users\samue\OneDrive\Escritorio\PRO\POO\PROYECTOS\DesintoxicacionDelAgua\obj\Debug\net6.0\DesintoxicacionDelAgua.AssemblyInfo.cs
+C:\Users\samue\OneDrive\Escritorio\PRO\POO\PROYECTOS\DesintoxicacionDelAgua\obj\Debug\net6.0\DesintoxicacionDelAgua.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Escritorio\PRO\POO\PROYECTOS\DesintoxicacionDelAgua\obj\Debug\net6.0\DesintoxicacionDelAgua.dll
+C:\Users\samue\OneDrive\Escritorio\PRO\POO\PROYECTOS\DesintoxicacionDelAgua\obj\Debug\net6.0\refint\DesintoxicacionDelAgua.dll
+C:\Users\samue\OneDrive\Escritorio\PRO\POO\PROYECTOS\DesintoxicacionDelAgua\obj\Debug\net6.0\DesintoxicacionDelAgua.pdb
+C:\Users\samue\OneDrive\Escritorio\PRO\POO\PROYECTOS\DesintoxicacionDelAgua\obj\Debug\net6.0\DesintoxicacionDelAgua.genruntimeconfig.cache
+C:\Users\samue\OneDrive\Escritorio\PRO\POO\PROYECTOS\DesintoxicacionDelAgua\obj\Debug\net6.0\ref\DesintoxicacionDelAgua.dll
